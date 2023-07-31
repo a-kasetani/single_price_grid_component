@@ -153,6 +153,7 @@ section{
     background-color: var(--Cyan);
     color: #fff;
     width: 50%;
+    border-radius: 0 0 0 5px;
 }
 
 .subscription_content{
@@ -208,6 +209,7 @@ section{
     background-color: #4ABEBD;
     color: #fff;
     width: 50%;
+    border-radius: 0 0 5px 0;
 }
 
 #why_us li{
@@ -223,8 +225,10 @@ section{
     }
     #subscription{
         width: 100%;
+        border-radius: 0 0 0 0;
     }
     #why_us{
         width: 100%;
+        border-radius: 0 0 5px 5px;
     }
 }
